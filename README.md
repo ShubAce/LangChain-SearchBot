@@ -1,7 +1,7 @@
-#LangChain Web-Search Chatbot with Streamlit
+# LangChain Web-Search Chatbot with Streamlit
 An interactive chatbot powered by LangChain, Streamlit, and Groq LLM, equipped with real-time web search capabilities using Wikipedia and DuckDuckGo. Ask any question and get responses backed by real-time information retrieval.
 
-###Features
+### Features
 Chat interface built with Streamlit
 Web-enabled responses using:
 Wikipedia (via langchain_community)
